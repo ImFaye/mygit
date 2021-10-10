@@ -1,2 +1,2 @@
 # mygit
-This is a test repository for ...
+这里是项目的详细介绍
